@@ -1,0 +1,43 @@
+h1{
+    position: absolute;
+    left: 550px;
+    top: 20px;
+}
+
+#canvas{
+    border: 2px solid black; /* Puedes cambiar el color, estilo y grosor del borde aquí */
+    display: block;
+    position: absolute;
+    left: 180px;
+    top: 150px;
+} 
+
+h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 140%;
+    position: absolute;
+    left: 180px;
+    top: 80px;
+}
+
+.color-div{
+    position: absolute;
+    left: 370px;
+    top: 102px;
+}
+
+.barra{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 140%;
+    position: absolute;
+    left: 450px;
+    top: 102px;
+}
+
+#clear{
+    position: absolute;
+    left: 680px;
+    top: 102px;
+    cursor: pointer; 
+    border-radius: 10px; /* Bordes redondeados */
+}
